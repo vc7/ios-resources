@@ -40,4 +40,13 @@
 
 ## 部落格
 
+| 名稱 | 介紹 |
+| ---- | ---- |
+| [NSHipster](http://nshipster.com/) | |
+| [SwiftGG](http://swift.gg/) | 簡中的 swift 開發相關文章及翻譯部落格 |
+
 ## 參考程式碼
+
+| 名稱 | 介紹 |
+| ---- | ---- |
+| Cheddar - [cheddarkit](https://github.com/nothingmagical/cheddarkit), [cheddar-ios](https://github.com/nothingmagical/cheddar-ios), [cheddar-mac](https://github.com/nothingmagical/cheddar-mac) | 參考 iOS/Mac 專案如何實作模組化及切分函式庫 |
