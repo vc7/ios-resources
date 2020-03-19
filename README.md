@@ -51,3 +51,7 @@
 | 名稱 | 介紹 |
 | ---- | ---- |
 | Cheddar - [cheddarkit](https://github.com/nothingmagical/cheddarkit), [cheddar-ios](https://github.com/nothingmagical/cheddar-ios), [cheddar-mac](https://github.com/nothingmagical/cheddar-mac) | 參考 iOS/Mac 專案如何實作模組化及切分函式庫 |
+
+## 遠端本地同步
+
+- <https://medium.com/@ludovicjamet/how-to-use-struct-with-realm-615fcbc8f0ee>
